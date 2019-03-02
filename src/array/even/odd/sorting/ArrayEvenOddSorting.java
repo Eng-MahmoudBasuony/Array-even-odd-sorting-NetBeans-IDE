@@ -18,12 +18,7 @@ List<Integer> even = new ArrayList<Integer>();
 
 for (int i : array_sort) 
 {
-    if ((i & 1) == 1)  /* any Number
-                         & 0001
-                         ___________
-                         
-                      */ 
-                       
+    if ((i & 1) == 1)                
     {
         odd.add(i);
     } else 
