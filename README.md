@@ -12,12 +12,13 @@ Bitwise operators are used to perform manipulation of individual bits of a numbe
 
 ### ex 
 ```ruby
- Bitwise And operation of 3 and 1
+ Bitwise And operation of 3 and 1 
+ 3 = 0011 , 1 = 0001 
    
-   0011 'In Binary'
-  &0001 'In Binary'
-  _____
-  0001  = 1 'In Decimal'
+    0011        'In Binary'
+   &0001        'In Binary'
+  ________
+  0001     = 1  'In Decimal'
  
 ```
 #### numbers
