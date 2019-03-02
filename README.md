@@ -1,7 +1,7 @@
 # Array-even-odd-sorting :coffee:
 I have an array where i have some numbers. Now i want to sort even numbers in a separate array and odd numbers in a separate
 
-from methods Solution this problem using Bitwise
+##### from methods Solution this problem using *Bitwise
 
 
 Bitwise operators in Java
