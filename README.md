@@ -8,6 +8,18 @@ Bitwise operators in Java
 
 Bitwise operators are used to perform manipulation of individual bits of a number. They can be used with any of the integral types (char, short, int, etc). They are used when performing update and query operations of Binary indexed tree. 
 
+---------
+
+### ex 
+```ruby
+ Bitwise And operation of 3 and 1
+   
+   0011 'In Binary'
+  &0001 'In Binary'
+  _____
+  0001  = 1 'In Decimal'
+ 
+```
 #### numbers
 
 int[] array_sort = {91,1,5, 12, 3, 21, 8, 7, 19, 102, 201 };
