@@ -18,7 +18,7 @@ Bitwise operators are used to perform manipulation of individual bits of a numbe
     0011        'In Binary'
    &0001        'In Binary'
   ________
-  0001     = 1  'In Decimal'
+    0001     = 1  'In Decimal'
  
 ```
 #### numbers
